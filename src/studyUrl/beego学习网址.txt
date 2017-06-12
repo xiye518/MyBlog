@@ -1,1 +1,0 @@
-https://beego.me/quickstart
